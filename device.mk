@@ -268,10 +268,6 @@ PRODUCT_PACKAGES += \
     com.quicinc.cne \
     services-ext
 
-# Device-specific settings
-PRODUCT_PACKAGES += \
-    XiaomiParts
-
 # Display
 PRODUCT_PACKAGES += \
     libdisplayconfig \
@@ -472,6 +468,5 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/wifi/WCNSS_qcom_cfg.ini:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/WCNSS_qcom_cfg.ini
 
 # ThermalController app
-PRODUCT_PACKAGES += \
-    ThermalController
-
+#PRODUCT_PACKAGES += \
+#    ThermalController
