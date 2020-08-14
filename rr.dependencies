@@ -1,0 +1,6 @@
+[
+ {
+   "repository": "redmi7_onc",
+   "target_path": "kernel/xiaomi/sdm632"
+ }
+]
