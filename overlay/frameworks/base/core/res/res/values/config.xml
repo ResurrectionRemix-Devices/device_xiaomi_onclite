@@ -514,4 +514,7 @@
     <string name="config_SmartChargingSupspendValue" translatable="false">0</string>
     <string name="config_SmartChargingResumeValue" translatable="false">1</string>
 
+    <!-- If Smart charging supported by kernel and device sepolicy -->
+    <bool name="config_smartChargingAvailable">true</bool>
+
 </resources>
