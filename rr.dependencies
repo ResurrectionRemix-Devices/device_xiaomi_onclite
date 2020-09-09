@@ -1,6 +1,10 @@
 [
  {
-   "repository": "redmi7_onc",
-   "target_path": "kernel/xiaomi/sdm632"
+   "repository": "vendor_xiaomi_onclite",
+   "target_path": "vendor/xiaomi/onclite"
+ }
+ {
+   "repository": "kernel_xiaomi_onclite",
+   "target_path": "kernel/xiaomi/onclite"
  }
 ]
